@@ -10,10 +10,6 @@
 
 [![robscarvalho8's GitHub stats](https://github-readme-stats.vercel.app/api?username=robscarvalho8&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robscarvalho8&theme=dracula&hide_langs_below=1" />
-</a>
-
 ## Streaks Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robscarvalho8&theme=dark&date_format=j%20M%5B%20Y%5D&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://git.io/streak-stats)
